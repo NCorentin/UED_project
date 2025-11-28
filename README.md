@@ -22,12 +22,12 @@ Epochs : 15
 - CNN + GRU
 - ConvLSTM
 
-  **Best** : ConvLSTM
+**Best** : ConvLSTM
 
-  **Loss function** :
-  - MAE
-  - MSE
-  - Huber
-  - SSIM + MSE
+**Loss function** :
+- MAE
+- - MSE
+- Huber
+- SSIM + MSE
  
-  **Best** : MAE
+**Best** : MAE
