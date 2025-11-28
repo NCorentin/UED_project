@@ -26,7 +26,7 @@ Epochs : 15
 
 **Loss function** :
 - MAE
-- - MSE
+- MSE
 - Huber
 - SSIM + MSE
  
